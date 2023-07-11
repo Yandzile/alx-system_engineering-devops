@@ -1,0 +1,2 @@
+#!/bin/bash
+print $(( 5#(echo SWATER | tr water 01234)+5#5(echo $STIR | tr stri. 01234)))|tr01234567 bestchol
